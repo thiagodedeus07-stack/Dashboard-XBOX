@@ -61,7 +61,7 @@ Contém elementos visuais utilizados na construção do dashboard.
 
 ## 📥 Arquivo do projeto
 
-
+https://github.com/thiagodedeus07-stack/Dashboard-XBOX/blob/376c258c8844ca514abb9049cbcebb080d2e9ecb/BASE_Xbox.xlsx
 
 ## 💡 Aprendizados
 
