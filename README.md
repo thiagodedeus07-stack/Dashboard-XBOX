@@ -24,7 +24,7 @@ A análise busca responder questões relacionadas a:
 
 O resultado das análises foi apresentado por meio de um dashboard, facilitando a visualização dos principais indicadores e informações da base de dados.
 
-
+https://github.com/thiagodedeus07-stack/Dashboard-XBOX/blob/6bb8d334bd816d5a908ae0037db636b0f14171a2/Dashboard_Xbox.png
 
 ## 🧮 Análise e cálculos
 
